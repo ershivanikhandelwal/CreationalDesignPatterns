@@ -1,9 +1,6 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
-
 public class DbConnectionTest {
     @Test
     public void testDbConnection()
