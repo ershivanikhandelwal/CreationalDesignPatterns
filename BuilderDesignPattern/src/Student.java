@@ -39,6 +39,12 @@ public class Student {
             return this;
         }
         public Student CreateBuilder(){
+            if(this.age<18){
+                throw new RuntimeException("Age can't be lesser than 18");
+            }
+            if(this.psp<0 || this.psp>100){
+                throw new RuntimeException("PSP can't be negative or greater than 100");
+            }
             return new Student(this);
         }
     }
