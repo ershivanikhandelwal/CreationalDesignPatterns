@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" filepath="$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderDesignPattern/BuilderTestCases/BuilderTestCases.iml" filepath="$PROJECT_DIR$/BuilderDesignPattern/BuilderTestCases/BuilderTestCases.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Design_Patterns.iml" filepath="$PROJECT_DIR$/.idea/Design_Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethodDesignPattern/FactoryMethodDesignPattern.iml" filepath="$PROJECT_DIR$/FactoryMethodDesignPattern/FactoryMethodDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrototypeDesignPattern/PrototypeDesignPattern.iml" filepath="$PROJECT_DIR$/PrototypeDesignPattern/PrototypeDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrototypeDesignPattern/PrototypeDesignPatternTest/PrototypeDesignPatternTest.iml" filepath="$PROJECT_DIR$/PrototypeDesignPattern/PrototypeDesignPatternTest/PrototypeDesignPatternTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactoryDesignPattern/SimpleFactoryDesignPattern.iml" filepath="$PROJECT_DIR$/SimpleFactoryDesignPattern/SimpleFactoryDesignPattern.iml" />
